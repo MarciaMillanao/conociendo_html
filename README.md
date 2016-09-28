@@ -1,6 +1,6 @@
 # Proyecto Laboratoria utils
 
-##### Este -proyecto- tiene una descripcion en __markdown__
+##### Este *proyecto* tiene una descripcion en __markdown__
 
 #### Este proyecto hace:
 
